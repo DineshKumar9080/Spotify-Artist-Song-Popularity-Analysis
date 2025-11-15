@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📊 Spotify Artist & Song Popularity Analysis – Power BI Dashboard
 
 This Power BI project analyzes Spotify’s Top 50 global tracks, focusing on artist performance, song popularity, audio features, and yearly trends. The dashboard is designed with a modern Spotify UI theme, providing seamless navigation across multiple analytical pages.
@@ -115,3 +116,6 @@ Publishing as an interactive Power BI Service dashboard
 Dinesh Kumar S
 Power BI Developer | Data Analyst
 Feel free to star ⭐ the repository if you like the design!
+=======
+# Spotify-Artist-Song-Popularity-Analysis
+>>>>>>> 14f4cc6349635432eedde82fa7ba5b66e93ca54b
