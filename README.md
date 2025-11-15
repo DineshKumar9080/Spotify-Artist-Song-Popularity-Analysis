@@ -1,17 +1,17 @@
-📊Spotify Artist & Song Popularity Analysis – Power BI Dashboard
+# 📊 Spotify Artist & Song Popularity Analysis – Power BI Dashboard
 
-This Power BI project analyzes Spotify's Top 50 global tracks, focusing on artist performance, song popularity, audio features, and yearly trends. The dashboard features a modern Spotify UI theme with seamless navigation across multiple analytical pages.
+# This Power BI project analyzes Spotify's Top 50 global tracks, focusing on artist performance, song popularity, audio features, and yearly trends. The dashboard features a modern Spotify UI theme with seamless navigation across multiple analytical pages.
 
-🚀 Key Features
+## 🚀 Key Features
 
-✔ Interactive Multi-Page Dashboard
+### ✔ Interactive Multi-Page Dashboard
 
-- Index Page – Spotify-themed homepage with navigation
-- Overview Page – High-level KPIs and overall music trends
-- Artists Page – Breakdown of artist popularity and performance
-- Songs Page – Song-level insights with detailed metrics
+- **Index Page** – Spotify-themed homepage with navigation
+- **Overview Page** – High-level KPIs and overall music trends
+- **Artists Page** – Breakdown of artist popularity and performance
+- **Songs Page** – Song-level insights with detailed metrics
 
-✔ Insights Included
+### ✔ Insights Included
 
 - Most popular artists
 - Song popularity distribution
@@ -23,7 +23,7 @@ This Power BI project analyzes Spotify's Top 50 global tracks, focusing on artis
 - Hit positions (Position 1 songs)
 - Playlist-wise song distribution
 
-✔ Technologies Used
+### ✔ Technologies Used
 
 - Power BI Desktop
 - Data modeling (relationships, DAX)
@@ -31,17 +31,17 @@ This Power BI project analyzes Spotify's Top 50 global tracks, focusing on artis
 - Spotify UI theming
 - Data source: Spotify Top-50 dataset
 
-🗂 Dashboard Pages
+## 🗂 Dashboard Pages
 
-🟢 Index Page
+### 🟢 Index Page
 
 Main landing page with Spotify-style UI and navigation
 
-📈 Overview Page
+### 📈 Overview Page
 
 Contains KPI cards, trend charts, bar graphs, and popularity insights
 
-🎤 Artists Page
+### 🎤 Artists Page
 
 Artist-specific metrics including:
 
@@ -50,7 +50,7 @@ Artist-specific metrics including:
 - Top hits
 - Artist profile panel
 
-🎵 Songs Page
+### 🎵 Songs Page
 
 Detailed analysis at the song level:
 
@@ -60,7 +60,7 @@ Detailed analysis at the song level:
 - Average tracks per album
 - Average popularity
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 📦 Spotify-PowerBI-Dashboard
@@ -73,23 +73,9 @@ Detailed analysis at the song level:
   ┗ songs-page.png
 ```
 
-📥 How to Use
+## 👨‍💻 Author
 
-1. Download the .pbix file
-2. Open in Power BI Desktop
-3. Refresh data if required
-4. Explore all pages using the bottom navigation bar
-
-📌 Future Improvements
-
-- Adding audio feature analysis (danceability, energy, tempo, etc.)
-- Creating a genre-wise breakdown
-- Live API integration for automatic refresh
-- Publishing as an interactive Power BI Service dashboard
-
-👨‍💻 Author
-
-Dinesh Kumar S
+**Dinesh Kumar S**
 
 Power BI Developer | Data Analyst
 
